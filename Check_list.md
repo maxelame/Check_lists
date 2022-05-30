@@ -14,3 +14,5 @@ ID | Title | Precondition | Inputs | ER| AR | Status |Bug
 9 |		Ввести имя и добавить цифры в начале |		 |		123Maksim |		Success	 |		pass |	 |		
 10 |		Добавить в имя разрешенные спецсимволы |	 |			M a-k_s.im |		Success	 |		pass |	 |		
 11 |		Внести только цифры	 |	 |		345678 |		Success	 |		pass	 |	 |	
+
+
